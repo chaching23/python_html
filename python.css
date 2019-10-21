@@ -1,0 +1,152 @@
+.container{
+    width: 970px;
+    height:1000px;
+    margin: 0px auto;
+    background-color: #235176; 
+    
+   
+   }
+
+   .logo{ 
+       display: inline-block;
+       width: 720px; 
+   }
+   .text{
+       display: inline-block;
+       vertical-align: top ;
+       color: white;
+       text-align: center; 
+   }
+       .text a{
+           color: yellow;
+       }
+   .search{ 
+    border: black;
+    display: inline-block;
+
+   }
+
+    .button{
+        display: inline-block;
+
+    }
+    .menu{
+        display: inline-block;
+        margin: 20px; 
+        color:white; 
+        background-color: #437cad; 
+        border-radius: 25px;
+
+
+
+    }
+    .lmenu{ 
+    width: 200px;
+    margin:5px;
+    padding: 5px;
+    display: inline-block;
+    color:white; 
+    text-align:center;
+    text-decoration: underline;        
+
+
+   }
+
+   .llmenu{ 
+       height: 300px;
+       text-decoration: underline;        
+   }
+   .search{
+       border: 10px solid grey; 
+       padding:4px;
+       border-radius:10px;
+   }
+   .par{ 
+       display: inline-block;
+       width: 600px;
+       vertical-align: top;
+       margin-left:20px;
+       text-align: center;
+       color:white; 
+   }
+
+   .parr{ 
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    font-style: italic ; 
+    margin:0px 10px 0px 5px ;
+    padding: 30px; 
+    text-align: center;
+    color:yellow; 
+    font-size: 18px;
+    font-family: verdana; 
+    line-height: 1.5 ;
+
+    
+}
+
+
+
+.white{
+width: 970px;
+height: 300px;
+background-color:white; 
+display: inline-block;
+
+
+
+}
+
+
+.twin{
+     display: inline-block;
+     width: 400px;
+     height: 220px;
+     text-align: center;
+     margin-left: 40px;
+    vertical-align: top;
+    border-top: 5px solid #73a7d5;
+    margin-top: 10px;
+    
+    }
+
+    .twin li{
+
+    color:#7eaed8; 
+    }
+
+.twinn{
+       display: inline-block;
+       width: 400px;
+       height: 300px;
+       text-align: center;
+       vertical-align: top;
+       border-top: 5px solid #73a7d5;
+       margin-top: 10px;
+}
+       .twinn li{
+
+        color:#7eaed8; 
+        }
+
+        
+        
+
+        .footer{
+            text-align: center;
+            color:white; 
+        }
+            .footer-3{
+                display: inline-block;
+                color:#81b3e0; 
+                margin:20px;
+                font-weight:normal; 
+            
+            }
+
+            .foot{
+                font-size:12px;
+                color:#81b3e0; 
+
+            }
